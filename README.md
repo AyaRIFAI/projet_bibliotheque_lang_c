@@ -19,5 +19,5 @@ moderne, un thème classique, thème enfantin) ce qui va être convenable avec l
 type de sa future bibliothèque.  
 ## 4-  
 L’administrateur peut changer le thème de la page d’authentification ainsi que
-certains couleurs et taille d’écriture.
+certains couleurs et taille d’écriture.  
 *Vous trouverez le projet dans la branche Master*
