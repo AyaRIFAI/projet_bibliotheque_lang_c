@@ -3,10 +3,10 @@
 #include<string.h>
 #include "ProtEtStructure.h"
 
-/*Dans ce fichier, on trouve les opérations d'ajout,  de suppression,  d'affichage,  de recherche des livres existants dans le fichier "livres"
+/*Dans ce fichier, on trouve les opï¿½rations d'ajout,  de suppression,  d'affichage,  de recherche des livres existants dans le fichier "livres"
 Concernant ces fonctions, ils vont intergir directement avec le fichier "livres" donc il n'auront aucun contact avec les pages web
 sauf la fonction d'affichage qui va permettre aussi de changer le contenu de la page web lister mais jusqu'a maitenant, elle affiche les resultats
-d'affichage dans la console mais on va l'adapter pour que ces resultats soient utilsés par la page web lister.*/
+d'affichage dans la console mais on va l'adapter pour que ces resultats soient utilsï¿½s par la page web lister.*/
 int ajouterLivreInFichier(char* nomFichier){
 	Livre livre;
 	Livre livreExistant;
@@ -96,6 +96,7 @@ int supprimerLivreInFichier(char* nomFichier){
 			}
 	}
 }
+
 int nbrLivreDansFichier(char* nomFichier){
 	Livre livre;
 	int nbr=0;
